@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Coupon</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="textview_content">Giảm 20% áp dụng cho hoá đơn trên 1 triệu đồng</string>
+    <string name="textview_name">Pi Vegetarian Bistro - Ẩm thực chay</string>
+    <string name="textview_description">Quán đẹp, món ăn lạ. Đa phần là khách nước ngoài hoặc tầng lớp trung lưu. Bếp trưởng là người Ấn Độ. View cũng khá đẹp, thích hợp cho cặp đôi ăn chay mún hẹn hò, sinh nhật, lễ tình nhân.</string>
+    <string name="textview_category">Ẩm thực chay</string>
+    <string name="showdetail">View Coupon Detail</string>
+</resources>
